@@ -1,0 +1,6 @@
+blog-frontend/node_modules
+blog-frontend/dist
+blog-backend/target
+.env
+.vscode
+.idea
